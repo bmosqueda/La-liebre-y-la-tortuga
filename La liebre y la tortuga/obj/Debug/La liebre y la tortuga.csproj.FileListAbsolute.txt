@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\bin\Debug\La liebre y la tortuga.exe.config
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\bin\Debug\La liebre y la tortuga.exe
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\bin\Debug\La liebre y la tortuga.pdb
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La liebre y la tortuga.csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La_liebre_y_la_tortuga.Form1.resources
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La_liebre_y_la_tortuga.Properties.Resources.resources
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La liebre y la tortuga.csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La liebre y la tortuga.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La liebre y la tortuga.exe
+C:\Users\brand\source\repos\La liebre y la tortuga\La liebre y la tortuga\obj\Debug\La liebre y la tortuga.pdb
