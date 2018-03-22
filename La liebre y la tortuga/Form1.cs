@@ -14,12 +14,11 @@ namespace La_liebre_y_la_tortuga
         {
             public int Posicion { get { return posicion; } }
             private int posicion;
-            protected static Random aleatorio;
+            static Random aleatorio = new Random();
 
             public Corredor()
             {
                 posicion = 0;
-                aleatorio = new Random();
             }
 
             protected abstract int getAvance();
@@ -54,7 +53,7 @@ namespace La_liebre_y_la_tortuga
 
             public override string ToString()
             {
-                return "Toruga está en la posición " + this.Posicion;
+                return "Tortuga está en la posición " + this.Posicion;
             }
         }
 
